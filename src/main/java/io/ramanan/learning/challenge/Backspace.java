@@ -31,7 +31,6 @@ public class Backspace {
                 return false;
             indexS--;
             indexT--;
-
         }
         
         return true;

@@ -1,0 +1,931 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReconstructItinerary",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ReconstructItinerary",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindTheDeuplicateNumberWithoutExtraSpace",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FindTheDeuplicateNumberWithoutExtraSpace",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DivideIntegers",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.DivideIntegers",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sqrt",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.Sqrt",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvaluateReversePolishNotation",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.EvaluateReversePolishNotation",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleNumberII",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SingleNumberII",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DungeonGame",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.DungeonGame",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HIndexII",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.HIndexII",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryRepresentation",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.practice.BinaryRepresentation",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.App",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BalancedBinaryTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.BalancedBinaryTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CanTwoMovieFillTheFlight<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.CanTwoMovieFillTheFlight",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CheckParanthesis<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.CheckParanthesis",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindDuplicate<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.FindDuplicate",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InPlaceShuffle<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.InPlaceShuffle",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MakeChangeIteratively<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.MakeChangeIteratively",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MakeChangeRecursively<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.MakeChangeRecursively",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxProduct<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.MaxProduct",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxProfit<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.MaxProfit",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NthFibonacci<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.NthFibonacci",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SecondLargestInBinarySearchTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.SecondLargestInBinarySearchTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringPermutations<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.StringPermutations",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThiefCake<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.ThiefCake",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WordCloud<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.InterviewCake.WordCloud",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Backspace<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.Backspace",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConstructBinarySearchTreeFromPreorderTraversal<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ConstructBinarySearchTreeFromPreorderTraversal",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConstructBinarySearchTreeFromPreorderTraversal2<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ConstructBinarySearchTreeFromPreorderTraversal2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContiguousArray<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ContiguousArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountAndSay<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.CountAndSay",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountingElements<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.CountingElements",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DiameterOfATree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.DiameterOfATree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EditDistance<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.EditDistance",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibonacci<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.Fibonacci",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindAllAnagramsInAString<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FindAllAnagramsInAString",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindJudge<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FindJudge",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstBadVersion<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FirstBadVersion",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstUnique<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FirstUnique",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstUniqueCharacterInString<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FirstUniqueCharacterInString",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydCycleDetection<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.FloydCycleDetection",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenerateParentheses<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.GenerateParentheses",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenerateParentheses2<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.GenerateParentheses2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GroupAnagrams<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.GroupAnagrams",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HappyNumber<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.HappyNumber",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IncreasingTripletSubsequence<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.IncreasingTripletSubsequence",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertDeleteGetRandom<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.InsertDeleteGetRandom",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntervalIntersection<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.IntervalIntersection",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsSubsequence<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.IsSubsequence",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LRUCache<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LRUCache",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LastStoneWeight<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LastStoneWeight",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LetterCombinationsOfAPhoneNumber<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LetterCombinationsOfAPhoneNumber",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonPrefix<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LongestCommonPrefix",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubsequence<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LongestCommonSubsequence",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindrome<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LongestPalindrome",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstringWithoutRepeatingCharacters<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.LongestSubstringWithoutRepeatingCharacters",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxProfit<learning>(1)",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MaxProfit",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximalSquare<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MaximalSquare",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeIntervals<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MergeIntervals",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSortedArrays<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MergeSortedArrays",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeTwoSortedArrayNodes<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MergeTwoSortedArrayNodes",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinStack<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MinStack",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumPathSum<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MinimumPathSum",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumSubArraySum<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MinimumSubArraySum",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MovingZeros<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MovingZeros",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultiplicationTable<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.MultiplicationTable",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberCompliment<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.NumberCompliment",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OnlineStockSpan<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.OnlineStockSpan",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permutation<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.Permutation",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PlusOne<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.PlusOne",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RansomNote<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.RansomNote",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveDuplicateFromSortedArray<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.RemoveDuplicateFromSortedArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveNthFromEnd<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.RemoveNthFromEnd",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseList<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ReverseList",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RotateArray<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.RotateArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RotateImage<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.RotateImage",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchInRotatedSortedArray<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SearchInRotatedSortedArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchInsertPosition<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SearchInsertPosition",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchMatrix<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SearchMatrix",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SentenceReverse<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SentenceReverse",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SingleElementInASortedArray<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SingleElementInASortedArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SingleNumber<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SingleNumber",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortColor<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SortColor",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SquareOfASortedArray<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SquareOfASortedArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringToInteger<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.StringToInteger",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Strstr<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.Strstr",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubArraySumEqualsK<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.SubArraySumEqualsK",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Subsets<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.Subsets",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ThreeSum",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopKFrequentElements<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.TopKFrequentElements",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ValidPalindrome<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ValidPalindrome",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ValidParamthesisString<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ValidParamthesisString",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ValidSequenceInABinaryTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.ValidSequenceInABinaryTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VerifyMergeSortedArrays<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.challenge.VerifyMergeSortedArrays",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyListTest<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.arraylist.MyListTest",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountPossibleTrees<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.binarytree.CountPossibleTrees",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindTheMaximumDepthOfABinaryTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.binarytree.FindTheMaximumDepthOfABinaryTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertIntoBinarySearchTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.binarytree.InsertIntoBinarySearchTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsBinarySearchTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.binarytree.IsBinarySearchTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MirrorATree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.binarytree.MirrorATree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintNodesInBSTRange<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.binarytree.PrintNodesInBSTRange",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BitwiseLogicalOperators<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.bitwise.BitwiseLogicalOperators",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BitwiseShiftOperators<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.bitwise.BitwiseShiftOperators",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstTraversal<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.graph.BreadthFirstTraversal",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstTraversal<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.graph.DepthFirstTraversal",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShortestPath<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.graph.ShortestPath",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyHashMapTest<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.hashmap.MyHashMapTest",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedListTest<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.linkedlist.LinkedListTest",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QueueTest<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.queue.QueueTest",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QueueWithTwoStackTest<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.queue.QueueWithTwoStackTest",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatchingParentheses<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.stack.MatchingParentheses",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumElementStack<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.stack.MinimumElementStack",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackTest<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.datastructure.stack.StackTest",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PaintThief<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.dp.PaintThief",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConvertBinaryNumberInALinkedListToInteger<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.practice.ConvertBinaryNumberInALinkedListToInteger",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MiddleOfTheLinkedList<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.practice.MiddleOfTheLinkedList",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Binary<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.Binary",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.BinarySearchTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreathFirst<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.BreathFirst",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirst<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.DepthFirst",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindKLargestFromStream<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.FindKLargestFromStream",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindLargestInMinHeap<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.FindLargestInMinHeap",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindMinimumInBinarySearchTree<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.search.FindMinimumInBinarySearchTree",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bubble<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Bubble",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counting<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Counting",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counting1<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Counting1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Heap",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insertion<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Insertion",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Merge<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Merge",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Quick",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Selection<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Selection",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shell<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Shell",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Topological<learning>",
+            "request": "launch",
+            "mainClass": "io.ramanan.learning.sorting.Topological",
+            "projectName": "learning"
+        }
+    ]
+}
